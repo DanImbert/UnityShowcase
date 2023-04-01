@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e9b1a5ec12659e4a9083bc0e429e6aa, type: 3}
+  m_Name: Questions
+  m_EditorClassIdentifier: Assembly-CSharp::Questionaire
+  Questions:
+  - question: Q1
+    Answers:
+    - answer: A1a
+      Changes: 000000000300000005000000
+    - answer: A1b
+      Changes: 010000000400000002000000
+  - question: Q2
+    Answers:
+    - answer: A2a
+      Changes: 010000000000000003000000
+    - answer: A2b
+      Changes: 040000000200000005000000
+  - question: Q3
+    Answers:
+    - answer: A3a
+      Changes: 0100000004000000
+    - answer: A3b
+      Changes: 00000000020000000300000005000000
+  - question: Q4
+    Answers:
+    - answer: A4a
+      Changes: 010000000000000002000000
+    - answer: A4b
+      Changes: 040000000300000005000000
+  - question: Q5
+    Answers:
+    - answer: A5a
+      Changes: 000000000200000003000000
+    - answer: A5b
+      Changes: 040000000100000005000000
+  - question: Q6
+    Answers:
+    - answer: A6a
+      Changes: 010000000400000002000000
+    - answer: A6b
+      Changes: 000000000300000005000000
+  - question: Q7
+    Answers:
+    - answer: A7a
+      Changes: 0400000005000000
+    - answer: A7b
+      Changes: 0100000003000000
+    - answer: A7c
+      Changes: 0000000002000000
+  - question: Q8
+    Answers:
+    - answer: A8a
+      Changes: 00000000
+    - answer: A8b
+      Changes: 05000000
+    - answer: A8c
+      Changes: 04000000
+    - answer: A8d
+      Changes: 02000000
+    - answer: A8e
+      Changes: 01000000
+    - answer: A8f
+      Changes: 03000000
+  - question: Q9
+    Answers:
+    - answer: A9a
+      Changes: 0200000005000000
+    - answer: A9b
+      Changes: 0000000003000000
+    - answer: A9c
+      Changes: 0100000004000000
+  - question: Q10
+    Answers:
+    - answer: A10a
+      Changes: 02000000
+    - answer: A10b
+      Changes: 00000000
+    - answer: A10c
+      Changes: 05000000
+    - answer: A10d
+      Changes: 03000000
+    - answer: A10e
+      Changes: 01000000
+    - answer: A10f
+      Changes: 04000000

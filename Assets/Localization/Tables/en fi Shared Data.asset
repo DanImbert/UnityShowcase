@@ -1,0 +1,275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: en fi Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: en fi
+  m_TableCollectionNameGuidString: 568df73f4d9b1fd428a17dbe2f4b6593
+  m_Entries:
+  - m_Id: 6540420386541568
+    m_Key: Q1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18720378880
+    m_Key: Ui Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6550438615863296
+    m_Key: Q2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554609117188096
+    m_Key: Q3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554665887092736
+    m_Key: Q4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554696253853696
+    m_Key: Q5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554705619734528
+    m_Key: Q6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554742928068608
+    m_Key: Q7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554793297465344
+    m_Key: Q8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554793628815360
+    m_Key: Q9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6556620701192192
+    m_Key: Submit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6559905516507136
+    m_Key: A1a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6560091772964864
+    m_Key: A1b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6560180121784320
+    m_Key: A2a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6560548587196416
+    m_Key: A2b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6855361937166336
+    m_Key: A3a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6871402222342144
+    m_Key: A3b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6871457150947328
+    m_Key: A4a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6871820407033856
+    m_Key: A4b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6871972979036160
+    m_Key: A5a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6872099785428992
+    m_Key: A5b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6872162096009216
+    m_Key: A6a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873235166744576
+    m_Key: A6b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873296634269696
+    m_Key: A7a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873421188321280
+    m_Key: A7b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873442667352064
+    m_Key: A7c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873615808221184
+    m_Key: A8a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873708485562368
+    m_Key: A8b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873725866758144
+    m_Key: A8c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873742945964032
+    m_Key: A8d
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873773174312960
+    m_Key: A8e
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873798243667968
+    m_Key: A8f
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874291158274048
+    m_Key: A9a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874310284300288
+    m_Key: A9b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874327359311872
+    m_Key: A9c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874800246116352
+    m_Key: A10a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874836916916224
+    m_Key: A10b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874839337029632
+    m_Key: A10c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874841111220224
+    m_Key: A10d
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874849097175040
+    m_Key: A10e
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874850074447872
+    m_Key: A10f
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6896433920888832
+    m_Key: Q10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6904298303803392
+    m_Key: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6906034653384704
+    m_Key: Settings title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6906127255228416
+    m_Key: Vol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6906142824484864
+    m_Key: Langauge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7223534511345664
+    m_Key: Language Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7606095880278016
+    m_Key: BUILD3retrieve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7606696169066496
+    m_Key: BUILD3confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7606934237761536
+    m_Key: End Screen Qestions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9762220055687168
+    m_Key: Load
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15377959855149056
+    m_Key: Sounds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27103584630427648
+    m_Key: Welcome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27154613006848000
+    m_Key: Ski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27154958168707072
+    m_Key: Register
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27155280551301120
+    m_Key: Reset password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27157947738574848
+    m_Key: Send character to email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27158786268024832
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27161210391187456
+    m_Key: Favourite style
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27162663981764608
+    m_Key: Final Style
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27828179289591808
+    m_Key: Background
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28070090281406464
+    m_Key: Back to character selection
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1636119236474

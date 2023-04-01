@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 0094b25a2f8a34e40b3aa9896ab6fd8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4267866919654695311
+    second: cc_pirates_male1_KonttinenAnni_0
+  - first:
+      213: -5160005685411314952
+    second: cc_pirates_male1_KonttinenAnni_1
+  - first:
+      213: -1166831254391920116
+    second: cc_pirates_male1_KonttinenAnni_2
+  - first:
+      213: -2014108393926581455
+    second: cc_pirates_male1_KonttinenAnni_3
+  - first:
+      213: 6580458338988297141
+    second: cc_pirates_male1_KonttinenAnni_4
+  - first:
+      213: 3834480856186183962
+    second: cc_pirates_male1_KonttinenAnni_5
+  - first:
+      213: 2684082739285636865
+    second: cc_pirates_male1_KonttinenAnni_6
+  - first:
+      213: -4798216571996608559
+    second: cc_pirates_male1_KonttinenAnni_7
+  - first:
+      213: -4262831025081499750
+    second: cc_pirates_male1_KonttinenAnni_8
+  - first:
+      213: 1482291113589550334
+    second: cc_pirates_male1_KonttinenAnni_9
+  - first:
+      213: 173546580898590088
+    second: cc_pirates_male1_KonttinenAnni_10
+  - first:
+      213: 1143692299363235080
+    second: cc_pirates_male1_KonttinenAnni_11
+  - first:
+      213: 7266730316354175005
+    second: cc_pirates_male1_KonttinenAnni_12
+  - first:
+      213: -8280875114817005189
+    second: cc_pirates_male1_KonttinenAnni_13
+  - first:
+      213: -2209064081574532910
+    second: cc_pirates_male1_KonttinenAnni_14
+  - first:
+      213: 8720783865817888593
+    second: cc_pirates_male1_KonttinenAnni_15
+  - first:
+      213: 3236877370810043185
+    second: cc_pirates_male1_KonttinenAnni_16
+  - first:
+      213: -4605434040904458694
+    second: cc_pirates_male1_KonttinenAnni_17
+  - first:
+      213: 2614422838537048361
+    second: cc_pirates_male1_KonttinenAnni_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cc_pirates_male1_KonttinenAnni_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 722
+        width: 167
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f200120b2af368b0800000000000000
+      internalID: -5160005685411314952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cc_pirates_male1_KonttinenAnni_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 610
+        width: 101
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a652108259ecfe0800000000000000
+      internalID: -1166831254391920116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cc_pirates_male1_KonttinenAnni_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 357
+        width: 236
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133afd046137c04e0800000000000000
+      internalID: -2014108393926581455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cc_pirates_male1_KonttinenAnni_4
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 603
+        width: 65
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb87aa9efb725b50800000000000000
+      internalID: 6580458338988297141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cc_pirates_male1_KonttinenAnni_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 420
+        width: 79
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a116303d500d63530800000000000000
+      internalID: 3834480856186183962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cc_pirates_male1_KonttinenAnni_7
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 439
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7efb6237f496db0800000000000000
+      internalID: -4798216571996608559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cc_pirates_male1_KonttinenAnni_8
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 338
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fb084a4c167d4c0800000000000000
+      internalID: -4262831025081499750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cc_pirates_male1_KonttinenAnni_9
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 346
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc293f0ae7229410800000000000000
+      internalID: 1482291113589550334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cc_pirates_male1_KonttinenAnni_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 108
+        width: 111
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88da17222bf886200800000000000000
+      internalID: 173546580898590088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cc_pirates_male1_KonttinenAnni_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 64
+        width: 100
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79d5fff4fb641d80800000000000000
+      internalID: -8280875114817005189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cc_pirates_male1_KonttinenAnni_14
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 120
+        width: 97
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8eca30ce3d751e0800000000000000
+      internalID: -2209064081574532910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cc_pirates_male1_KonttinenAnni_15
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 72
+        width: 102
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1577805a8b2760970800000000000000
+      internalID: 8720783865817888593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cc_pirates_male1_KonttinenAnni_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 14
+        width: 125
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ed563f3263610c0800000000000000
+      internalID: -4605434040904458694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cc_pirates_male1_KonttinenAnni_18
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 23
+        width: 120
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9215ba748bb484420800000000000000
+      internalID: 2614422838537048361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

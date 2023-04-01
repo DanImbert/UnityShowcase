@@ -1,0 +1,273 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: en fi_fi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fi
+  m_SharedData: {fileID: 11400000, guid: 568df73f4d9b1fd428a17dbe2f4b6593, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18720378880
+    m_Localized: Tervetuloa peliin!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6540420386541568
+    m_Localized: "Jos olet tien haarassa kumpaan suuntaan k\xE4\xE4nnyt, vasemmalle
+      vai oikealle?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6556620701192192
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6550438615863296
+    m_Localized: "Pid\xE4tk\xF6 retro-peleist\xE4?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554609117188096
+    m_Localized: "Neli\xF6 vai ympyr\xE4?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554665887092736
+    m_Localized: "Kumman valitset: \u201Cv\xE4rikk\xE4\xE4n ja suloisen\u201D vai
+      \u201Csynk\xE4n ja kauhean\u201D?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554696253853696
+    m_Localized: Taide vai tiede?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554705619734528
+    m_Localized: Raha vai rakkaus?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554742928068608
+    m_Localized: "Pid\xE4tk\xF6 eniten vastaleikatun nurmikon, takkatulen vai suklaakakun
+      tuoksusta?\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554793297465344
+    m_Localized: "Mik\xE4 el\xE4in?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554793628815360
+    m_Localized: "Mik\xE4 n\xE4ist\xE4 on mieluisin ajanvietteesi?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6559905516507136
+    m_Localized: Vasen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6560091772964864
+    m_Localized: Oikea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6560180121784320
+    m_Localized: "Kyll\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6560548587196416
+    m_Localized: En
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6855361937166336
+    m_Localized: "Neli\xF6"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6871402222342144
+    m_Localized: "Ympyr\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6871457150947328
+    m_Localized: "V\xE4rikk\xE4\xE4n ja suloisen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6871820407033856
+    m_Localized: "Synk\xE4n ja kauhean"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6871972979036160
+    m_Localized: Taide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6872099785428992
+    m_Localized: Tiede
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6872162096009216
+    m_Localized: Raha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873235166744576
+    m_Localized: Rakkaus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873296634269696
+    m_Localized: Vastaleikatun nurmikon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873421188321280
+    m_Localized: Takkatulen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873442667352064
+    m_Localized: Suklaakakun tuoksusta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873615808221184
+    m_Localized: Tiikeri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873708485562368
+    m_Localized: Susi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873725866758144
+    m_Localized: "K\xE4\xE4rme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873742945964032
+    m_Localized: Delfiini
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873773174312960
+    m_Localized: "P\xF6ll\xF6"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873798243667968
+    m_Localized: "M\xE4yr\xE4\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874291158274048
+    m_Localized: "S\xE4hly\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874310284300288
+    m_Localized: Maalaaminen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874327359311872
+    m_Localized: "Shakki\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874800246116352
+    m_Localized: Angry Birds -elokuva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874836916916224
+    m_Localized: Pokemon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874839337029632
+    m_Localized: James Bond 007
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874841111220224
+    m_Localized: Painajainen ennen joulua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874849097175040
+    m_Localized: Star Wars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874850074447872
+    m_Localized: Frozen 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6896433920888832
+    m_Localized: "Mink\xE4 elokuvan katsoisit?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6904298303803392
+    m_Localized: Ohita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6906034653384704
+    m_Localized: Asetukset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6906142824484864
+    m_Localized: Kieli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6906127255228416
+    m_Localized: "\xC4\xE4nenvoimakkuus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7223534511345664
+    m_Localized: Suomi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7606095880278016
+    m_Localized: Hakea hahmoa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7606696169066496
+    m_Localized: Vahvista hahmo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7606934237761536
+    m_Localized: Onnittelut, tyylisi on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9762220055687168
+    m_Localized: "L\xF6\xE4dyng..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15377959855149056
+    m_Localized: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27103584630427648
+    m_Localized: Tervetuloa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27154613006848000
+    m_Localized: Kirjaudu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27154958168707072
+    m_Localized: "Rekister\xF6idy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27155280551301120
+    m_Localized: Nollaa salasana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27157947738574848
+    m_Localized: "L\xE4het\xE4 s\xE4hk\xF6postiin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27158786268024832
+    m_Localized: Jatkaa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27161210391187456
+    m_Localized: 'Lempityylisi on:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27162663981764608
+    m_Localized: 'Onnittelut tyylisi on:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27828179289591808
+    m_Localized: Tausta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28070090281406464
+    m_Localized: Takaisin hahmojen valintaan
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

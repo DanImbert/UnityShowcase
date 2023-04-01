@@ -1,0 +1,282 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: en fi_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 568df73f4d9b1fd428a17dbe2f4b6593, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18720378880
+    m_Localized: Welcome to the game!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6540420386541568
+    m_Localized: You reach a fork in the road, do you turn left or right?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6556620701192192
+    m_Localized: Submit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6550438615863296
+    m_Localized: Do you like retro games?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554609117188096
+    m_Localized: A square or a circle?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554665887092736
+    m_Localized: Which one do you choose, "colorful and adorable" or "gloomy and
+      awful"?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554696253853696
+    m_Localized: Art or science?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554705619734528
+    m_Localized: Money or love?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554742928068608
+    m_Localized: 'Which scent do you prefer the most: freshly cut lawn, a fireplace,
+      or a chocolate cake?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554793297465344
+    m_Localized: Which animal?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6554793628815360
+    m_Localized: Which of these is your preferred past-time activity?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6559905516507136
+    m_Localized: Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6560091772964864
+    m_Localized: Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6560180121784320
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6560548587196416
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6855361937166336
+    m_Localized: Square
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6871402222342144
+    m_Localized: Circle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6871457150947328
+    m_Localized: Colorful and adorable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6871820407033856
+    m_Localized: Gloomy and awful
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6871972979036160
+    m_Localized: Art
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6872099785428992
+    m_Localized: Science
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6872162096009216
+    m_Localized: 'Money
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873235166744576
+    m_Localized: 'Love
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873296634269696
+    m_Localized: Freshly cut lawn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873421188321280
+    m_Localized: Fireplace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873442667352064
+    m_Localized: Chocolate cake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873615808221184
+    m_Localized: 'Tiger
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873708485562368
+    m_Localized: Wolf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873725866758144
+    m_Localized: Snake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873742945964032
+    m_Localized: Dolphin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873773174312960
+    m_Localized: 'Owl
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873798243667968
+    m_Localized: 'Badger
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874291158274048
+    m_Localized: Floorball
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874310284300288
+    m_Localized: Painting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874327359311872
+    m_Localized: Chess
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874800246116352
+    m_Localized: Angry Birds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874836916916224
+    m_Localized: Pokemon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874839337029632
+    m_Localized: James Bond 007
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874841111220224
+    m_Localized: The Nightmare Before Christmas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874849097175040
+    m_Localized: Star Wars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6874850074447872
+    m_Localized: Frozen 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6896433920888832
+    m_Localized: What movie would you watch?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6904298303803392
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6906034653384704
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6906142824484864
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6906127255228416
+    m_Localized: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7223534511345664
+    m_Localized: Englanti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7606095880278016
+    m_Localized: Retrieve Character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7606696169066496
+    m_Localized: Confirm Character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7606934237761536
+    m_Localized: 'Congratulations,  your style is '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9762220055687168
+    m_Localized: Loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15377959855149056
+    m_Localized: Sounds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27103584630427648
+    m_Localized: Welcome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27154613006848000
+    m_Localized: Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27154958168707072
+    m_Localized: Register
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27155280551301120
+    m_Localized: Reset Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27157947738574848
+    m_Localized: Send to email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27158786268024832
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27161210391187456
+    m_Localized: 'Your favourite style is:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27162663981764608
+    m_Localized: 'Congratulations your style is: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27828179289591808
+    m_Localized: Background
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28070090281406464
+    m_Localized: Back to character selection
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

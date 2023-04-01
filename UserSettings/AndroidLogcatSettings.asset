@@ -1,0 +1,155 @@
+{
+    "m_SelectedDeviceId": "HPV4RDS5",
+    "m_SelectedPackage": {
+        "deviceId": "HPV4RDS5",
+        "name": "com.Mecagoento.Hahmotin",
+        "processId": 14983,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "HPV4RDS5",
+            "name": "com.Mecagoento.Hahmotin",
+            "processId": 10019,
+            "exited": true
+        },
+        {
+            "deviceId": "HPV4RDS5",
+            "name": "com.Mecagoento.Hahmotin",
+            "processId": 6145,
+            "exited": true
+        },
+        {
+            "deviceId": "HPV4RDS5",
+            "name": "com.Mecagoento.Hahmotin",
+            "processId": 6984,
+            "exited": true
+        },
+        {
+            "deviceId": "HPV4RDS5",
+            "name": "com.Mecagoento.Hahmotin",
+            "processId": 8726,
+            "exited": true
+        },
+        {
+            "deviceId": "HPV4RDS5",
+            "name": "com.Mecagoento.Hahmotin",
+            "processId": 9126,
+            "exited": true
+        },
+        {
+            "deviceId": "HPV4RDS5",
+            "name": "com.tblenovo.launcher",
+            "processId": 2401,
+            "exited": false
+        },
+        {
+            "deviceId": "HPV4RDS5",
+            "name": "com.Mecagoento.Hahmotin",
+            "processId": 9967,
+            "exited": false
+        },
+        {
+            "deviceId": "HPV4RDS5",
+            "name": "com.Mecagoento.Hahmotin",
+            "processId": 10809,
+            "exited": false
+        },
+        {
+            "deviceId": "HPV4RDS5",
+            "name": "com.Mecagoento.Hahmotin",
+            "processId": 11461,
+            "exited": false
+        },
+        {
+            "deviceId": "HPV4RDS5",
+            "name": "com.Mecagoento.Hahmotin",
+            "processId": 12370,
+            "exited": false
+        },
+        {
+            "deviceId": "HPV4RDS5",
+            "name": "com.Mecagoento.Hahmotin",
+            "processId": 13046,
+            "exited": false
+        },
+        {
+            "deviceId": "HPV4RDS5",
+            "name": "com.Mecagoento.Hahmotin",
+            "processId": 14345,
+            "exited": false
+        },
+        {
+            "deviceId": "HPV4RDS5",
+            "name": "com.Mecagoento.Hahmotin",
+            "processId": 14983,
+            "exited": false
+        },
+        {
+            "deviceId": "HPV4RDXL",
+            "name": "com.Mecagoento.Hahmotin",
+            "processId": 20375,
+            "exited": false
+        },
+        {
+            "deviceId": "HPV4RDXL",
+            "name": "com.Mecagoento.Hahmotin",
+            "processId": 7750,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

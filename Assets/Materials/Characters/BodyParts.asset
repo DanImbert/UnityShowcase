@@ -1,0 +1,1023 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: BodyParts
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Head
+    m_Hash: 130111906
+    m_CategoryList:
+    - m_Name: Astronaut_pixel
+      m_Hash: 2133130654
+      m_Sprite: {fileID: -5689517488287838561, guid: 5b8f55d1f622018499aa25dca05cdf27, type: 3}
+    - m_Name: Scuba_pixel
+      m_Hash: -243746134
+      m_Sprite: {fileID: -636855634048742554, guid: 93a1f706b629650419331056916ef7ce, type: 3}
+    - m_Name: Boy_Anime
+      m_Hash: -1888934983
+      m_Sprite: {fileID: -6681067720743604006, guid: 8a99a470649750e4fa3e7a3182e964bf, type: 3}
+    - m_Name: Girl_Anime
+      m_Hash: 611371093
+      m_Sprite: {fileID: -8495806554202792082, guid: 59d32f7e7f655124facdf1d7ace0661a, type: 3}
+    - m_Name: Knight_fantasy
+      m_Hash: -1995597731
+      m_Sprite: {fileID: 7947922509573475110, guid: f56456ff0b0b9a046a6ef0996e671f2c, type: 3}
+    - m_Name: Suitman_indie
+      m_Hash: -851927549
+      m_Sprite: {fileID: 4346459635082060713, guid: 400757b1c42f8694c8d3e4cac40baa0c, type: 3}
+    - m_Name: Adventurer_indie
+      m_Hash: 1945485534
+      m_Sprite: {fileID: -6825391128157851764, guid: c7534d8e5c38cda40a8b648f2888f991, type: 3}
+    - m_Name: Fighter_indie
+      m_Hash: 649162173
+      m_Sprite: {fileID: -3934283595042319532, guid: b7634fc5e1877b0409d0d969f9aefde3, type: 3}
+    - m_Name: UndeadRanger_indie
+      m_Hash: 1202715206
+      m_Sprite: {fileID: 206370119525682213, guid: 927f3d3ef3a50e946b4d53ac4974ee1c, type: 3}
+    - m_Name: CountDovorushka_indie
+      m_Hash: -1944956803
+      m_Sprite: {fileID: -9089248053895089433, guid: 52d98be9e1137b24e86b0ada5661b2b0, type: 3}
+    - m_Name: PlagueDoctor_pixel
+      m_Hash: 2003625779
+      m_Sprite: {fileID: -7579949591234190218, guid: 8888a4d2981602a449d29700b7662872, type: 3}
+    - m_Name: Skull_PostApocalypse
+      m_Hash: -22287164
+      m_Sprite: {fileID: 3627644075814945667, guid: d18a9340cc1f0424ba77820ba11c1005, type: 3}
+    - m_Name: Marincic_PostApocalypse
+      m_Hash: 1296847265
+      m_Sprite: {fileID: 7291086624570478124, guid: 38995c01e09dc7a40a5dd29bda2e6111, type: 3}
+    - m_Name: Spaceboy_scifi
+      m_Hash: 1433593600
+      m_Sprite: {fileID: -6653303007039508052, guid: 7d291a91239bbf7499254b91cf61b4da, type: 3}
+    - m_Name: FemaleKnight_vector
+      m_Hash: -1019246480
+      m_Sprite: {fileID: -7991951223655840787, guid: d3865d6c5891da54fb3cb906cac93802, type: 3}
+    - m_Name: Samurai_vector
+      m_Hash: 1762462841
+      m_Sprite: {fileID: 232684164156956338, guid: e8e7976b56debe94bb6dc34e960bae3e, type: 3}
+    - m_Name: Raver_vector
+      m_Hash: 1177066619
+      m_Sprite: {fileID: 7525332656113801335, guid: 6c4eb0329f2eca24e82edbe6f8a695d0, type: 3}
+    - m_Name: Female1_pirate
+      m_Hash: 2093390499
+      m_Sprite: {fileID: 5382184091109513041, guid: f8ed68110a3e9034bb2f620d7225c8c8, type: 3}
+    - m_Name: Female2_pirate
+      m_Hash: -230056640
+      m_Sprite: {fileID: 445027450665030073, guid: 830e1cdfe7a99cf4e871c1a3bb680491, type: 3}
+    - m_Name: Female3_pirate
+      m_Hash: 1055104478
+      m_Sprite: {fileID: 1118881238100046385, guid: e214548ddbbb17143a65d18210e7d092, type: 3}
+    - m_Name: Male1_pirate
+      m_Hash: 1681796089
+      m_Sprite: {fileID: 4183490945657876295, guid: ace5d3cf53e1c304d911f144a2b3f12b, type: 3}
+    - m_Name: Male2_pirate
+      m_Hash: -357487590
+      m_Sprite: {fileID: 2092231376495692581, guid: 8df52c1629fcffe44aa0583283aef510, type: 3}
+    - m_Name: Music_vector
+      m_Hash: -1769516966
+      m_Sprite: {fileID: 4551116692361507579, guid: 00ccfd0e4a4dd3c42a7d203cb1f43b8f, type: 3}
+  - m_Name: Torso
+    m_Hash: -425815167
+    m_CategoryList:
+    - m_Name: Astronaut_pixel
+      m_Hash: 2133130654
+      m_Sprite: {fileID: 6923785291222761679, guid: 5b8f55d1f622018499aa25dca05cdf27, type: 3}
+    - m_Name: Scuba_pixel
+      m_Hash: -243746134
+      m_Sprite: {fileID: 9120578408536077224, guid: 93a1f706b629650419331056916ef7ce, type: 3}
+    - m_Name: Boy_Anime
+      m_Hash: -1888934983
+      m_Sprite: {fileID: 8060768766539847, guid: 8a99a470649750e4fa3e7a3182e964bf, type: 3}
+    - m_Name: Girl_Anime
+      m_Hash: 611371093
+      m_Sprite: {fileID: -1779043409100472452, guid: 59d32f7e7f655124facdf1d7ace0661a, type: 3}
+    - m_Name: Knight_fantasy
+      m_Hash: -1995597731
+      m_Sprite: {fileID: -5494918761885048892, guid: f56456ff0b0b9a046a6ef0996e671f2c, type: 3}
+    - m_Name: Suitman_indie
+      m_Hash: -851927549
+      m_Sprite: {fileID: -5502671504704016735, guid: 400757b1c42f8694c8d3e4cac40baa0c, type: 3}
+    - m_Name: Adventurer_indie
+      m_Hash: 1945485534
+      m_Sprite: {fileID: -7893079308368287184, guid: c7534d8e5c38cda40a8b648f2888f991, type: 3}
+    - m_Name: Fighter_indie
+      m_Hash: 649162173
+      m_Sprite: {fileID: 8206554279144795415, guid: b7634fc5e1877b0409d0d969f9aefde3, type: 3}
+    - m_Name: UndeadRanger_indie
+      m_Hash: 1202715206
+      m_Sprite: {fileID: -6229740692567147739, guid: 927f3d3ef3a50e946b4d53ac4974ee1c, type: 3}
+    - m_Name: CountDovorushka_indie
+      m_Hash: -1944956803
+      m_Sprite: {fileID: -4241731302460594719, guid: 52d98be9e1137b24e86b0ada5661b2b0, type: 3}
+    - m_Name: PlagueDoctor_pixel
+      m_Hash: 2003625779
+      m_Sprite: {fileID: -7549676080100913732, guid: 8888a4d2981602a449d29700b7662872, type: 3}
+    - m_Name: Skull_PostApocalypse
+      m_Hash: -22287164
+      m_Sprite: {fileID: -6943162466849256726, guid: d18a9340cc1f0424ba77820ba11c1005, type: 3}
+    - m_Name: Marincic_PostApocalypse
+      m_Hash: 1296847265
+      m_Sprite: {fileID: 5956123978563736853, guid: 38995c01e09dc7a40a5dd29bda2e6111, type: 3}
+    - m_Name: Spaceboy_scifi
+      m_Hash: 1433593600
+      m_Sprite: {fileID: 6159249121022249865, guid: 7d291a91239bbf7499254b91cf61b4da, type: 3}
+    - m_Name: FemaleKnight_vector
+      m_Hash: -1019246480
+      m_Sprite: {fileID: 702573578791991165, guid: d3865d6c5891da54fb3cb906cac93802, type: 3}
+    - m_Name: Samurai_vector
+      m_Hash: 1762462841
+      m_Sprite: {fileID: -3342321536243976272, guid: e8e7976b56debe94bb6dc34e960bae3e, type: 3}
+    - m_Name: Raver_vector
+      m_Hash: 1177066619
+      m_Sprite: {fileID: 1492178710695517834, guid: 6c4eb0329f2eca24e82edbe6f8a695d0, type: 3}
+    - m_Name: Female1_pirate
+      m_Hash: 2093390499
+      m_Sprite: {fileID: -7273454944111582902, guid: f8ed68110a3e9034bb2f620d7225c8c8, type: 3}
+    - m_Name: Female2_pirate
+      m_Hash: -230056640
+      m_Sprite: {fileID: -6784580914515314185, guid: 830e1cdfe7a99cf4e871c1a3bb680491, type: 3}
+    - m_Name: Female3_pirate
+      m_Hash: 1055104478
+      m_Sprite: {fileID: 7195475818105074397, guid: e214548ddbbb17143a65d18210e7d092, type: 3}
+    - m_Name: Male1_pirate
+      m_Hash: 1681796089
+      m_Sprite: {fileID: -1960985550460076521, guid: ace5d3cf53e1c304d911f144a2b3f12b, type: 3}
+    - m_Name: Male2_pirate
+      m_Hash: -357487590
+      m_Sprite: {fileID: -2095715622320270523, guid: 8df52c1629fcffe44aa0583283aef510, type: 3}
+    - m_Name: Music_vector
+      m_Hash: -1769516966
+      m_Sprite: {fileID: -6965760161099902862, guid: 00ccfd0e4a4dd3c42a7d203cb1f43b8f, type: 3}
+  - m_Name: R_upperarm
+    m_Hash: 125945110
+    m_CategoryList:
+    - m_Name: Astronaut_pixel
+      m_Hash: 2133130654
+      m_Sprite: {fileID: -3003740862922403070, guid: 5b8f55d1f622018499aa25dca05cdf27, type: 3}
+    - m_Name: Scuba_pixel
+      m_Hash: -243746134
+      m_Sprite: {fileID: 3374418549024005752, guid: 93a1f706b629650419331056916ef7ce, type: 3}
+    - m_Name: Boy_Anime
+      m_Hash: -1888934983
+      m_Sprite: {fileID: 7694393329690126514, guid: 8a99a470649750e4fa3e7a3182e964bf, type: 3}
+    - m_Name: Girl_Anime
+      m_Hash: 611371093
+      m_Sprite: {fileID: 4268691213386612173, guid: 59d32f7e7f655124facdf1d7ace0661a, type: 3}
+    - m_Name: Knight_fantasy
+      m_Hash: -1995597731
+      m_Sprite: {fileID: -5089619778082151202, guid: f56456ff0b0b9a046a6ef0996e671f2c, type: 3}
+    - m_Name: Suitman_indie
+      m_Hash: -851927549
+      m_Sprite: {fileID: -4624703559342345117, guid: 400757b1c42f8694c8d3e4cac40baa0c, type: 3}
+    - m_Name: Adventurer_indie
+      m_Hash: 1945485534
+      m_Sprite: {fileID: 6951462712832693551, guid: c7534d8e5c38cda40a8b648f2888f991, type: 3}
+    - m_Name: Fighter_indie
+      m_Hash: 649162173
+      m_Sprite: {fileID: -1308461517216265883, guid: b7634fc5e1877b0409d0d969f9aefde3, type: 3}
+    - m_Name: UndeadRanger_indie
+      m_Hash: 1202715206
+      m_Sprite: {fileID: -1940494423888872591, guid: 927f3d3ef3a50e946b4d53ac4974ee1c, type: 3}
+    - m_Name: CountDovorushka_indie
+      m_Hash: -1944956803
+      m_Sprite: {fileID: 7070286549973964929, guid: 52d98be9e1137b24e86b0ada5661b2b0, type: 3}
+    - m_Name: PlagueDoctor_pixel
+      m_Hash: 2003625779
+      m_Sprite: {fileID: 3321527591389342215, guid: 8888a4d2981602a449d29700b7662872, type: 3}
+    - m_Name: Skull_PostApocalypse
+      m_Hash: -22287164
+      m_Sprite: {fileID: -1308585877034963175, guid: d18a9340cc1f0424ba77820ba11c1005, type: 3}
+    - m_Name: Marincic_PostApocalypse
+      m_Hash: 1296847265
+      m_Sprite: {fileID: -3267542552440771097, guid: 38995c01e09dc7a40a5dd29bda2e6111, type: 3}
+    - m_Name: Spaceboy_scifi
+      m_Hash: 1433593600
+      m_Sprite: {fileID: 2288966689596362408, guid: 7d291a91239bbf7499254b91cf61b4da, type: 3}
+    - m_Name: FemaleKnight_vector
+      m_Hash: -1019246480
+      m_Sprite: {fileID: -4865518843989784690, guid: d3865d6c5891da54fb3cb906cac93802, type: 3}
+    - m_Name: Samurai_vector
+      m_Hash: 1762462841
+      m_Sprite: {fileID: -4039708630989803056, guid: e8e7976b56debe94bb6dc34e960bae3e, type: 3}
+    - m_Name: Raver_vector
+      m_Hash: 1177066619
+      m_Sprite: {fileID: -1743161814397088676, guid: 6c4eb0329f2eca24e82edbe6f8a695d0, type: 3}
+    - m_Name: Female1_pirate
+      m_Hash: 2093390499
+      m_Sprite: {fileID: 8742984827932589706, guid: f8ed68110a3e9034bb2f620d7225c8c8, type: 3}
+    - m_Name: Female2_pirate
+      m_Hash: -230056640
+      m_Sprite: {fileID: -5228824443473419579, guid: 830e1cdfe7a99cf4e871c1a3bb680491, type: 3}
+    - m_Name: Female3_pirate
+      m_Hash: 1055104478
+      m_Sprite: {fileID: 7337694802196633715, guid: e214548ddbbb17143a65d18210e7d092, type: 3}
+    - m_Name: Male1_pirate
+      m_Hash: 1681796089
+      m_Sprite: {fileID: -2852053380610443490, guid: ace5d3cf53e1c304d911f144a2b3f12b, type: 3}
+    - m_Name: Male2_pirate
+      m_Hash: -357487590
+      m_Sprite: {fileID: 3461688076765662424, guid: 8df52c1629fcffe44aa0583283aef510, type: 3}
+    - m_Name: Music_vector
+      m_Hash: -1769516966
+      m_Sprite: {fileID: 8234225355351628484, guid: 00ccfd0e4a4dd3c42a7d203cb1f43b8f, type: 3}
+  - m_Name: L_upperarm
+    m_Hash: 1055290445
+    m_CategoryList:
+    - m_Name: Astronaut_pixel
+      m_Hash: 2133130654
+      m_Sprite: {fileID: 1761957250584943657, guid: 5b8f55d1f622018499aa25dca05cdf27, type: 3}
+    - m_Name: Scuba_pixel
+      m_Hash: -243746134
+      m_Sprite: {fileID: 2924805729174780054, guid: 93a1f706b629650419331056916ef7ce, type: 3}
+    - m_Name: Boy_Anime
+      m_Hash: -1888934983
+      m_Sprite: {fileID: 1427498628408527019, guid: 8a99a470649750e4fa3e7a3182e964bf, type: 3}
+    - m_Name: Girl_Anime
+      m_Hash: 611371093
+      m_Sprite: {fileID: -6471024686470972108, guid: 59d32f7e7f655124facdf1d7ace0661a, type: 3}
+    - m_Name: Knight_fantasy
+      m_Hash: -1995597731
+      m_Sprite: {fileID: -2653798202742495185, guid: f56456ff0b0b9a046a6ef0996e671f2c, type: 3}
+    - m_Name: Suitman_indie
+      m_Hash: -851927549
+      m_Sprite: {fileID: 4228354494266244842, guid: 400757b1c42f8694c8d3e4cac40baa0c, type: 3}
+    - m_Name: Adventurer_indie
+      m_Hash: 1945485534
+      m_Sprite: {fileID: 1222242023857122429, guid: c7534d8e5c38cda40a8b648f2888f991, type: 3}
+    - m_Name: Fighter_indie
+      m_Hash: 649162173
+      m_Sprite: {fileID: -4713178609380029825, guid: b7634fc5e1877b0409d0d969f9aefde3, type: 3}
+    - m_Name: UndeadRanger_indie
+      m_Hash: 1202715206
+      m_Sprite: {fileID: 2340368419408584019, guid: 927f3d3ef3a50e946b4d53ac4974ee1c, type: 3}
+    - m_Name: CountDovorushka_indie
+      m_Hash: -1944956803
+      m_Sprite: {fileID: 5621886973457188149, guid: 52d98be9e1137b24e86b0ada5661b2b0, type: 3}
+    - m_Name: PlagueDoctor_pixel
+      m_Hash: 2003625779
+      m_Sprite: {fileID: -1555332805570769527, guid: 8888a4d2981602a449d29700b7662872, type: 3}
+    - m_Name: Skull_PostApocalypse
+      m_Hash: -22287164
+      m_Sprite: {fileID: 5245313873213156530, guid: d18a9340cc1f0424ba77820ba11c1005, type: 3}
+    - m_Name: Marincic_PostApocalypse
+      m_Hash: 1296847265
+      m_Sprite: {fileID: 5549824918711942035, guid: 38995c01e09dc7a40a5dd29bda2e6111, type: 3}
+    - m_Name: Spaceboy_scifi
+      m_Hash: 1433593600
+      m_Sprite: {fileID: 6378050847679556453, guid: 7d291a91239bbf7499254b91cf61b4da, type: 3}
+    - m_Name: FemaleKnight_vector
+      m_Hash: -1019246480
+      m_Sprite: {fileID: -8100005089370922907, guid: d3865d6c5891da54fb3cb906cac93802, type: 3}
+    - m_Name: Samurai_vector
+      m_Hash: 1762462841
+      m_Sprite: {fileID: 8303819823768431276, guid: e8e7976b56debe94bb6dc34e960bae3e, type: 3}
+    - m_Name: Raver_vector
+      m_Hash: 1177066619
+      m_Sprite: {fileID: 5750127734422053430, guid: 6c4eb0329f2eca24e82edbe6f8a695d0, type: 3}
+    - m_Name: Female1_pirate
+      m_Hash: 2093390499
+      m_Sprite: {fileID: -8497984651732863924, guid: f8ed68110a3e9034bb2f620d7225c8c8, type: 3}
+    - m_Name: Female2_pirate
+      m_Hash: -230056640
+      m_Sprite: {fileID: 4805045741809765529, guid: 830e1cdfe7a99cf4e871c1a3bb680491, type: 3}
+    - m_Name: Female3_pirate
+      m_Hash: 1055104478
+      m_Sprite: {fileID: 5512381187466922847, guid: e214548ddbbb17143a65d18210e7d092, type: 3}
+    - m_Name: Male1_pirate
+      m_Hash: 1681796089
+      m_Sprite: {fileID: -7860572673383422842, guid: ace5d3cf53e1c304d911f144a2b3f12b, type: 3}
+    - m_Name: Male2_pirate
+      m_Hash: -357487590
+      m_Sprite: {fileID: -246211274074417433, guid: 8df52c1629fcffe44aa0583283aef510, type: 3}
+    - m_Name: Music_vector
+      m_Hash: -1769516966
+      m_Sprite: {fileID: 6233475369602928574, guid: 00ccfd0e4a4dd3c42a7d203cb1f43b8f, type: 3}
+  - m_Name: R_forearm
+    m_Hash: -811971716
+    m_CategoryList:
+    - m_Name: Astronaut_pixel
+      m_Hash: 2133130654
+      m_Sprite: {fileID: -1821863613831705613, guid: 5b8f55d1f622018499aa25dca05cdf27, type: 3}
+    - m_Name: Scuba_pixel
+      m_Hash: -243746134
+      m_Sprite: {fileID: -2749602029751577955, guid: 93a1f706b629650419331056916ef7ce, type: 3}
+    - m_Name: Boy_Anime
+      m_Hash: -1888934983
+      m_Sprite: {fileID: -2488842890077761779, guid: 8a99a470649750e4fa3e7a3182e964bf, type: 3}
+    - m_Name: Girl_Anime
+      m_Hash: 611371093
+      m_Sprite: {fileID: -304310991583842468, guid: 59d32f7e7f655124facdf1d7ace0661a, type: 3}
+    - m_Name: Knight_fantasy
+      m_Hash: -1995597731
+      m_Sprite: {fileID: 4302142606908930986, guid: f56456ff0b0b9a046a6ef0996e671f2c, type: 3}
+    - m_Name: Suitman_indie
+      m_Hash: -851927549
+      m_Sprite: {fileID: 3404511460699331430, guid: 400757b1c42f8694c8d3e4cac40baa0c, type: 3}
+    - m_Name: Adventurer_indie
+      m_Hash: 1945485534
+      m_Sprite: {fileID: -362897308744155043, guid: c7534d8e5c38cda40a8b648f2888f991, type: 3}
+    - m_Name: Fighter_indie
+      m_Hash: 649162173
+      m_Sprite: {fileID: -461821050580737485, guid: b7634fc5e1877b0409d0d969f9aefde3, type: 3}
+    - m_Name: UndeadRanger_indie
+      m_Hash: 1202715206
+      m_Sprite: {fileID: 4294446767487883096, guid: 927f3d3ef3a50e946b4d53ac4974ee1c, type: 3}
+    - m_Name: CountDovorushka_indie
+      m_Hash: -1944956803
+      m_Sprite: {fileID: -4740468326200412276, guid: 52d98be9e1137b24e86b0ada5661b2b0, type: 3}
+    - m_Name: PlagueDoctor_pixel
+      m_Hash: 2003625779
+      m_Sprite: {fileID: 2429656162436189164, guid: 8888a4d2981602a449d29700b7662872, type: 3}
+    - m_Name: Skull_PostApocalypse
+      m_Hash: -22287164
+      m_Sprite: {fileID: 2444448454176397299, guid: d18a9340cc1f0424ba77820ba11c1005, type: 3}
+    - m_Name: Marincic_PostApocalypse
+      m_Hash: 1296847265
+      m_Sprite: {fileID: -8848722743973204275, guid: 38995c01e09dc7a40a5dd29bda2e6111, type: 3}
+    - m_Name: Spaceboy_scifi
+      m_Hash: 1433593600
+      m_Sprite: {fileID: 4056970013644904409, guid: 7d291a91239bbf7499254b91cf61b4da, type: 3}
+    - m_Name: FemaleKnight_vector
+      m_Hash: -1019246480
+      m_Sprite: {fileID: 5937764299355443844, guid: d3865d6c5891da54fb3cb906cac93802, type: 3}
+    - m_Name: Samurai_vector
+      m_Hash: 1762462841
+      m_Sprite: {fileID: -8345496785542000267, guid: e8e7976b56debe94bb6dc34e960bae3e, type: 3}
+    - m_Name: Raver_vector
+      m_Hash: 1177066619
+      m_Sprite: {fileID: -7221160384542327572, guid: 6c4eb0329f2eca24e82edbe6f8a695d0, type: 3}
+    - m_Name: Female1_pirate
+      m_Hash: 2093390499
+      m_Sprite: {fileID: 2023349909488249982, guid: f8ed68110a3e9034bb2f620d7225c8c8, type: 3}
+    - m_Name: Female2_pirate
+      m_Hash: -230056640
+      m_Sprite: {fileID: 1291780591723519753, guid: 830e1cdfe7a99cf4e871c1a3bb680491, type: 3}
+    - m_Name: Female3_pirate
+      m_Hash: 1055104478
+      m_Sprite: {fileID: 9023942741366250036, guid: e214548ddbbb17143a65d18210e7d092, type: 3}
+    - m_Name: Male1_pirate
+      m_Hash: 1681796089
+      m_Sprite: {fileID: 8277800068633462217, guid: ace5d3cf53e1c304d911f144a2b3f12b, type: 3}
+    - m_Name: Male2_pirate
+      m_Hash: -357487590
+      m_Sprite: {fileID: -6941181412942720573, guid: 8df52c1629fcffe44aa0583283aef510, type: 3}
+    - m_Name: Music_vector
+      m_Hash: -1769516966
+      m_Sprite: {fileID: -3796923512193824045, guid: 00ccfd0e4a4dd3c42a7d203cb1f43b8f, type: 3}
+  - m_Name: L_forearm
+    m_Hash: -1416047969
+    m_CategoryList:
+    - m_Name: Astronaut_pixel
+      m_Hash: 2133130654
+      m_Sprite: {fileID: -3648593212236745901, guid: 5b8f55d1f622018499aa25dca05cdf27, type: 3}
+    - m_Name: Scuba_pixel
+      m_Hash: -243746134
+      m_Sprite: {fileID: -6122023813814741220, guid: 93a1f706b629650419331056916ef7ce, type: 3}
+    - m_Name: Boy_Anime
+      m_Hash: -1888934983
+      m_Sprite: {fileID: -1077110899911171319, guid: 8a99a470649750e4fa3e7a3182e964bf, type: 3}
+    - m_Name: Girl_Anime
+      m_Hash: 611371093
+      m_Sprite: {fileID: 6405356635733412533, guid: 59d32f7e7f655124facdf1d7ace0661a, type: 3}
+    - m_Name: Knight_fantasy
+      m_Hash: -1995597731
+      m_Sprite: {fileID: 7907702199148681767, guid: f56456ff0b0b9a046a6ef0996e671f2c, type: 3}
+    - m_Name: Suitman_indie
+      m_Hash: -851927549
+      m_Sprite: {fileID: 5075112266143101641, guid: 400757b1c42f8694c8d3e4cac40baa0c, type: 3}
+    - m_Name: Adventurer_indie
+      m_Hash: 1945485534
+      m_Sprite: {fileID: 6844122941808591135, guid: c7534d8e5c38cda40a8b648f2888f991, type: 3}
+    - m_Name: Fighter_indie
+      m_Hash: 649162173
+      m_Sprite: {fileID: 5163725876863365459, guid: b7634fc5e1877b0409d0d969f9aefde3, type: 3}
+    - m_Name: UndeadRanger_indie
+      m_Hash: 1202715206
+      m_Sprite: {fileID: 1122921096143439805, guid: 927f3d3ef3a50e946b4d53ac4974ee1c, type: 3}
+    - m_Name: CountDovorushka_indie
+      m_Hash: -1944956803
+      m_Sprite: {fileID: 7014206016541818402, guid: 52d98be9e1137b24e86b0ada5661b2b0, type: 3}
+    - m_Name: PlagueDoctor_pixel
+      m_Hash: 2003625779
+      m_Sprite: {fileID: 2710462266172653556, guid: 8888a4d2981602a449d29700b7662872, type: 3}
+    - m_Name: Skull_PostApocalypse
+      m_Hash: -22287164
+      m_Sprite: {fileID: 1352020883786229294, guid: d18a9340cc1f0424ba77820ba11c1005, type: 3}
+    - m_Name: Marincic_PostApocalypse
+      m_Hash: 1296847265
+      m_Sprite: {fileID: -1610217516260347116, guid: 38995c01e09dc7a40a5dd29bda2e6111, type: 3}
+    - m_Name: Spaceboy_scifi
+      m_Hash: 1433593600
+      m_Sprite: {fileID: 302878466841306498, guid: 7d291a91239bbf7499254b91cf61b4da, type: 3}
+    - m_Name: FemaleKnight_vector
+      m_Hash: -1019246480
+      m_Sprite: {fileID: 862563953937797358, guid: d3865d6c5891da54fb3cb906cac93802, type: 3}
+    - m_Name: Samurai_vector
+      m_Hash: 1762462841
+      m_Sprite: {fileID: 132829041527401710, guid: e8e7976b56debe94bb6dc34e960bae3e, type: 3}
+    - m_Name: Raver_vector
+      m_Hash: 1177066619
+      m_Sprite: {fileID: -6133591890643118564, guid: 6c4eb0329f2eca24e82edbe6f8a695d0, type: 3}
+    - m_Name: Female1_pirate
+      m_Hash: 2093390499
+      m_Sprite: {fileID: 7163024170073296550, guid: f8ed68110a3e9034bb2f620d7225c8c8, type: 3}
+    - m_Name: Female2_pirate
+      m_Hash: -230056640
+      m_Sprite: {fileID: 4390465222928446829, guid: 830e1cdfe7a99cf4e871c1a3bb680491, type: 3}
+    - m_Name: Female3_pirate
+      m_Hash: 1055104478
+      m_Sprite: {fileID: -8976226740915183901, guid: e214548ddbbb17143a65d18210e7d092, type: 3}
+    - m_Name: Male1_pirate
+      m_Hash: 1681796089
+      m_Sprite: {fileID: -3593465682033836817, guid: ace5d3cf53e1c304d911f144a2b3f12b, type: 3}
+    - m_Name: Male2_pirate
+      m_Hash: -357487590
+      m_Sprite: {fileID: -4074004060617292310, guid: 8df52c1629fcffe44aa0583283aef510, type: 3}
+    - m_Name: Music_vector
+      m_Hash: -1769516966
+      m_Sprite: {fileID: 877864460729633408, guid: 00ccfd0e4a4dd3c42a7d203cb1f43b8f, type: 3}
+  - m_Name: R_hand
+    m_Hash: 1289866710
+    m_CategoryList:
+    - m_Name: Astronaut_pixel
+      m_Hash: 2133130654
+      m_Sprite: {fileID: 8294893059376352621, guid: 5b8f55d1f622018499aa25dca05cdf27, type: 3}
+    - m_Name: Scuba_pixel
+      m_Hash: -243746134
+      m_Sprite: {fileID: 7999782123859632036, guid: 93a1f706b629650419331056916ef7ce, type: 3}
+    - m_Name: Boy_Anime
+      m_Hash: -1888934983
+      m_Sprite: {fileID: 1982302902926144388, guid: 8a99a470649750e4fa3e7a3182e964bf, type: 3}
+    - m_Name: Girl_Anime
+      m_Hash: 611371093
+      m_Sprite: {fileID: 6614117869144790142, guid: 59d32f7e7f655124facdf1d7ace0661a, type: 3}
+    - m_Name: Knight_fantasy
+      m_Hash: -1995597731
+      m_Sprite: {fileID: -4914491293580110639, guid: f56456ff0b0b9a046a6ef0996e671f2c, type: 3}
+    - m_Name: Suitman_indie
+      m_Hash: -851927549
+      m_Sprite: {fileID: -3193529999811288711, guid: 400757b1c42f8694c8d3e4cac40baa0c, type: 3}
+    - m_Name: Adventurer_indie
+      m_Hash: 1945485534
+      m_Sprite: {fileID: -9194580777778413067, guid: c7534d8e5c38cda40a8b648f2888f991, type: 3}
+    - m_Name: Fighter_indie
+      m_Hash: 649162173
+      m_Sprite: {fileID: -3486159392623426686, guid: b7634fc5e1877b0409d0d969f9aefde3, type: 3}
+    - m_Name: UndeadRanger_indie
+      m_Hash: 1202715206
+      m_Sprite: {fileID: -2989928062644296368, guid: 927f3d3ef3a50e946b4d53ac4974ee1c, type: 3}
+    - m_Name: CountDovorushka_indie
+      m_Hash: -1944956803
+      m_Sprite: {fileID: 205320582431641005, guid: 52d98be9e1137b24e86b0ada5661b2b0, type: 3}
+    - m_Name: PlagueDoctor_pixel
+      m_Hash: 2003625779
+      m_Sprite: {fileID: 6730534958505666550, guid: 8888a4d2981602a449d29700b7662872, type: 3}
+    - m_Name: Skull_PostApocalypse
+      m_Hash: -22287164
+      m_Sprite: {fileID: 6528822447740745203, guid: d18a9340cc1f0424ba77820ba11c1005, type: 3}
+    - m_Name: Marincic_PostApocalypse
+      m_Hash: 1296847265
+      m_Sprite: {fileID: 2742343050057060049, guid: 38995c01e09dc7a40a5dd29bda2e6111, type: 3}
+    - m_Name: Spaceboy_scifi
+      m_Hash: 1433593600
+      m_Sprite: {fileID: -462428720917756821, guid: 7d291a91239bbf7499254b91cf61b4da, type: 3}
+    - m_Name: FemaleKnight_vector
+      m_Hash: -1019246480
+      m_Sprite: {fileID: 8163493210853955738, guid: d3865d6c5891da54fb3cb906cac93802, type: 3}
+    - m_Name: Samurai_vector
+      m_Hash: 1762462841
+      m_Sprite: {fileID: 1881500154134099969, guid: e8e7976b56debe94bb6dc34e960bae3e, type: 3}
+    - m_Name: Raver_vector
+      m_Hash: 1177066619
+      m_Sprite: {fileID: -6678377627045678124, guid: 6c4eb0329f2eca24e82edbe6f8a695d0, type: 3}
+    - m_Name: Female1_pirate
+      m_Hash: 2093390499
+      m_Sprite: {fileID: 5035223116623933501, guid: f8ed68110a3e9034bb2f620d7225c8c8, type: 3}
+    - m_Name: Female2_pirate
+      m_Hash: -230056640
+      m_Sprite: {fileID: -4871122454854508835, guid: 830e1cdfe7a99cf4e871c1a3bb680491, type: 3}
+    - m_Name: Female3_pirate
+      m_Hash: 1055104478
+      m_Sprite: {fileID: 33335181126983951, guid: e214548ddbbb17143a65d18210e7d092, type: 3}
+    - m_Name: Male1_pirate
+      m_Hash: 1681796089
+      m_Sprite: {fileID: 5362948115825304575, guid: ace5d3cf53e1c304d911f144a2b3f12b, type: 3}
+    - m_Name: Male2_pirate
+      m_Hash: -357487590
+      m_Sprite: {fileID: -850482402624184257, guid: 8df52c1629fcffe44aa0583283aef510, type: 3}
+    - m_Name: Music_vector
+      m_Hash: -1769516966
+      m_Sprite: {fileID: -8703643333930947293, guid: 00ccfd0e4a4dd3c42a7d203cb1f43b8f, type: 3}
+  - m_Name: L_hand
+    m_Hash: 1966976573
+    m_CategoryList:
+    - m_Name: Astronaut_pixel
+      m_Hash: 2133130654
+      m_Sprite: {fileID: 169013600489553202, guid: 5b8f55d1f622018499aa25dca05cdf27, type: 3}
+    - m_Name: Scuba_pixel
+      m_Hash: -243746134
+      m_Sprite: {fileID: -8149721466551735222, guid: 93a1f706b629650419331056916ef7ce, type: 3}
+    - m_Name: Boy_Anime
+      m_Hash: -1888934983
+      m_Sprite: {fileID: 8764290760312748603, guid: 8a99a470649750e4fa3e7a3182e964bf, type: 3}
+    - m_Name: Girl_Anime
+      m_Hash: 611371093
+      m_Sprite: {fileID: 6527925272941185467, guid: 59d32f7e7f655124facdf1d7ace0661a, type: 3}
+    - m_Name: Knight_fantasy
+      m_Hash: -1995597731
+      m_Sprite: {fileID: 2059553055988222248, guid: f56456ff0b0b9a046a6ef0996e671f2c, type: 3}
+    - m_Name: Suitman_indie
+      m_Hash: -851927549
+      m_Sprite: {fileID: 4891540253428182830, guid: 400757b1c42f8694c8d3e4cac40baa0c, type: 3}
+    - m_Name: Adventurer_indie
+      m_Hash: 1945485534
+      m_Sprite: {fileID: -39584462961840441, guid: c7534d8e5c38cda40a8b648f2888f991, type: 3}
+    - m_Name: Fighter_indie
+      m_Hash: 649162173
+      m_Sprite: {fileID: 6201990480952167302, guid: b7634fc5e1877b0409d0d969f9aefde3, type: 3}
+    - m_Name: UndeadRanger_indie
+      m_Hash: 1202715206
+      m_Sprite: {fileID: 8549756190608097361, guid: 927f3d3ef3a50e946b4d53ac4974ee1c, type: 3}
+    - m_Name: CountDovorushka_indie
+      m_Hash: -1944956803
+      m_Sprite: {fileID: 3171624816841822398, guid: 52d98be9e1137b24e86b0ada5661b2b0, type: 3}
+    - m_Name: PlagueDoctor_pixel
+      m_Hash: 2003625779
+      m_Sprite: {fileID: 3717322903045523499, guid: 8888a4d2981602a449d29700b7662872, type: 3}
+    - m_Name: Skull_PostApocalypse
+      m_Hash: -22287164
+      m_Sprite: {fileID: -272617383678989326, guid: d18a9340cc1f0424ba77820ba11c1005, type: 3}
+    - m_Name: Marincic_PostApocalypse
+      m_Hash: 1296847265
+      m_Sprite: {fileID: 2543130052605216740, guid: 38995c01e09dc7a40a5dd29bda2e6111, type: 3}
+    - m_Name: Spaceboy_scifi
+      m_Hash: 1433593600
+      m_Sprite: {fileID: 8736355931083097020, guid: 7d291a91239bbf7499254b91cf61b4da, type: 3}
+    - m_Name: FemaleKnight_vector
+      m_Hash: -1019246480
+      m_Sprite: {fileID: 7956193596174486300, guid: d3865d6c5891da54fb3cb906cac93802, type: 3}
+    - m_Name: Samurai_vector
+      m_Hash: 1762462841
+      m_Sprite: {fileID: 3323894933794065952, guid: e8e7976b56debe94bb6dc34e960bae3e, type: 3}
+    - m_Name: Raver_vector
+      m_Hash: 1177066619
+      m_Sprite: {fileID: 8286530786426599450, guid: 6c4eb0329f2eca24e82edbe6f8a695d0, type: 3}
+    - m_Name: Female1_pirate
+      m_Hash: 2093390499
+      m_Sprite: {fileID: 7528270909289789133, guid: f8ed68110a3e9034bb2f620d7225c8c8, type: 3}
+    - m_Name: Female2_pirate
+      m_Hash: -230056640
+      m_Sprite: {fileID: 4733590001959066496, guid: 830e1cdfe7a99cf4e871c1a3bb680491, type: 3}
+    - m_Name: Female3_pirate
+      m_Hash: 1055104478
+      m_Sprite: {fileID: -2681112362311977376, guid: e214548ddbbb17143a65d18210e7d092, type: 3}
+    - m_Name: Male1_pirate
+      m_Hash: 1681796089
+      m_Sprite: {fileID: 1528317112824802880, guid: ace5d3cf53e1c304d911f144a2b3f12b, type: 3}
+    - m_Name: Male2_pirate
+      m_Hash: -357487590
+      m_Sprite: {fileID: 4752477001480302955, guid: 8df52c1629fcffe44aa0583283aef510, type: 3}
+    - m_Name: Music_vector
+      m_Hash: -1769516966
+      m_Sprite: {fileID: -4726670672515512306, guid: 00ccfd0e4a4dd3c42a7d203cb1f43b8f, type: 3}
+  - m_Name: R_thigh
+    m_Hash: 149807236
+    m_CategoryList:
+    - m_Name: Astronaut_pixel
+      m_Hash: 2133130654
+      m_Sprite: {fileID: -8510120339485182280, guid: 5b8f55d1f622018499aa25dca05cdf27, type: 3}
+    - m_Name: Scuba_pixel
+      m_Hash: -243746134
+      m_Sprite: {fileID: 7201684269998288057, guid: 93a1f706b629650419331056916ef7ce, type: 3}
+    - m_Name: Boy_Anime
+      m_Hash: -1888934983
+      m_Sprite: {fileID: -4228126920488941273, guid: 8a99a470649750e4fa3e7a3182e964bf, type: 3}
+    - m_Name: Girl_Anime
+      m_Hash: 611371093
+      m_Sprite: {fileID: 3028026558138117075, guid: 59d32f7e7f655124facdf1d7ace0661a, type: 3}
+    - m_Name: Knight_fantasy
+      m_Hash: -1995597731
+      m_Sprite: {fileID: 1153950591541411811, guid: f56456ff0b0b9a046a6ef0996e671f2c, type: 3}
+    - m_Name: Suitman_indie
+      m_Hash: -851927549
+      m_Sprite: {fileID: 4114678061243285998, guid: 400757b1c42f8694c8d3e4cac40baa0c, type: 3}
+    - m_Name: Adventurer_indie
+      m_Hash: 1945485534
+      m_Sprite: {fileID: -1370305429435372197, guid: c7534d8e5c38cda40a8b648f2888f991, type: 3}
+    - m_Name: Fighter_indie
+      m_Hash: 649162173
+      m_Sprite: {fileID: -7195842375078781492, guid: b7634fc5e1877b0409d0d969f9aefde3, type: 3}
+    - m_Name: UndeadRanger_indie
+      m_Hash: 1202715206
+      m_Sprite: {fileID: -4795586527704387661, guid: 927f3d3ef3a50e946b4d53ac4974ee1c, type: 3}
+    - m_Name: CountDovorushka_indie
+      m_Hash: -1944956803
+      m_Sprite: {fileID: 3273004911118361683, guid: 52d98be9e1137b24e86b0ada5661b2b0, type: 3}
+    - m_Name: PlagueDoctor_pixel
+      m_Hash: 2003625779
+      m_Sprite: {fileID: 4085011232765264350, guid: 8888a4d2981602a449d29700b7662872, type: 3}
+    - m_Name: Skull_PostApocalypse
+      m_Hash: -22287164
+      m_Sprite: {fileID: 4638633602541800045, guid: d18a9340cc1f0424ba77820ba11c1005, type: 3}
+    - m_Name: Marincic_PostApocalypse
+      m_Hash: 1296847265
+      m_Sprite: {fileID: 8948066082974826814, guid: 38995c01e09dc7a40a5dd29bda2e6111, type: 3}
+    - m_Name: Spaceboy_scifi
+      m_Hash: 1433593600
+      m_Sprite: {fileID: -7049099563620320648, guid: 7d291a91239bbf7499254b91cf61b4da, type: 3}
+    - m_Name: FemaleKnight_vector
+      m_Hash: -1019246480
+      m_Sprite: {fileID: -1211860405248261097, guid: d3865d6c5891da54fb3cb906cac93802, type: 3}
+    - m_Name: Samurai_vector
+      m_Hash: 1762462841
+      m_Sprite: {fileID: 205880313811732442, guid: e8e7976b56debe94bb6dc34e960bae3e, type: 3}
+    - m_Name: Raver_vector
+      m_Hash: 1177066619
+      m_Sprite: {fileID: -3409212188326820570, guid: 6c4eb0329f2eca24e82edbe6f8a695d0, type: 3}
+    - m_Name: Female1_pirate
+      m_Hash: 2093390499
+      m_Sprite: {fileID: -8513718433244684959, guid: f8ed68110a3e9034bb2f620d7225c8c8, type: 3}
+    - m_Name: Female2_pirate
+      m_Hash: -230056640
+      m_Sprite: {fileID: 5664096993644091551, guid: 830e1cdfe7a99cf4e871c1a3bb680491, type: 3}
+    - m_Name: Female3_pirate
+      m_Hash: 1055104478
+      m_Sprite: {fileID: 2273424086182338917, guid: e214548ddbbb17143a65d18210e7d092, type: 3}
+    - m_Name: Male1_pirate
+      m_Hash: 1681796089
+      m_Sprite: {fileID: 6943796732995742138, guid: ace5d3cf53e1c304d911f144a2b3f12b, type: 3}
+    - m_Name: Male2_pirate
+      m_Hash: -357487590
+      m_Sprite: {fileID: -8247545111135088798, guid: 8df52c1629fcffe44aa0583283aef510, type: 3}
+    - m_Name: Music_vector
+      m_Hash: -1769516966
+      m_Sprite: {fileID: -8711513428099234972, guid: 00ccfd0e4a4dd3c42a7d203cb1f43b8f, type: 3}
+  - m_Name: L_thigh
+    m_Hash: 1057752855
+    m_CategoryList:
+    - m_Name: Astronaut_pixel
+      m_Hash: 2133130654
+      m_Sprite: {fileID: -7063341347660612431, guid: 5b8f55d1f622018499aa25dca05cdf27, type: 3}
+    - m_Name: Scuba_pixel
+      m_Hash: -243746134
+      m_Sprite: {fileID: -5597120350022169955, guid: 93a1f706b629650419331056916ef7ce, type: 3}
+    - m_Name: Boy_Anime
+      m_Hash: -1888934983
+      m_Sprite: {fileID: -4243152313391047700, guid: 8a99a470649750e4fa3e7a3182e964bf, type: 3}
+    - m_Name: Girl_Anime
+      m_Hash: 611371093
+      m_Sprite: {fileID: 6897248315740994418, guid: 59d32f7e7f655124facdf1d7ace0661a, type: 3}
+    - m_Name: Knight_fantasy
+      m_Hash: -1995597731
+      m_Sprite: {fileID: 7711886674362189167, guid: f56456ff0b0b9a046a6ef0996e671f2c, type: 3}
+    - m_Name: Suitman_indie
+      m_Hash: -851927549
+      m_Sprite: {fileID: -3383004329506522075, guid: 400757b1c42f8694c8d3e4cac40baa0c, type: 3}
+    - m_Name: Adventurer_indie
+      m_Hash: 1945485534
+      m_Sprite: {fileID: 540694921610015381, guid: c7534d8e5c38cda40a8b648f2888f991, type: 3}
+    - m_Name: Fighter_indie
+      m_Hash: 649162173
+      m_Sprite: {fileID: 4815500733763245265, guid: b7634fc5e1877b0409d0d969f9aefde3, type: 3}
+    - m_Name: UndeadRanger_indie
+      m_Hash: 1202715206
+      m_Sprite: {fileID: -4962965320031152073, guid: 927f3d3ef3a50e946b4d53ac4974ee1c, type: 3}
+    - m_Name: CountDovorushka_indie
+      m_Hash: -1944956803
+      m_Sprite: {fileID: -3031948654776455785, guid: 52d98be9e1137b24e86b0ada5661b2b0, type: 3}
+    - m_Name: PlagueDoctor_pixel
+      m_Hash: 2003625779
+      m_Sprite: {fileID: -7883207646060720330, guid: 8888a4d2981602a449d29700b7662872, type: 3}
+    - m_Name: Skull_PostApocalypse
+      m_Hash: -22287164
+      m_Sprite: {fileID: -3329021703524649875, guid: d18a9340cc1f0424ba77820ba11c1005, type: 3}
+    - m_Name: Marincic_PostApocalypse
+      m_Hash: 1296847265
+      m_Sprite: {fileID: -8808928277914501484, guid: 38995c01e09dc7a40a5dd29bda2e6111, type: 3}
+    - m_Name: Spaceboy_scifi
+      m_Hash: 1433593600
+      m_Sprite: {fileID: 6096163143190410103, guid: 7d291a91239bbf7499254b91cf61b4da, type: 3}
+    - m_Name: FemaleKnight_vector
+      m_Hash: -1019246480
+      m_Sprite: {fileID: -8066087403598702570, guid: d3865d6c5891da54fb3cb906cac93802, type: 3}
+    - m_Name: Samurai_vector
+      m_Hash: 1762462841
+      m_Sprite: {fileID: 5258227661107629968, guid: e8e7976b56debe94bb6dc34e960bae3e, type: 3}
+    - m_Name: Raver_vector
+      m_Hash: 1177066619
+      m_Sprite: {fileID: 5073636317399606245, guid: 6c4eb0329f2eca24e82edbe6f8a695d0, type: 3}
+    - m_Name: Female1_pirate
+      m_Hash: 2093390499
+      m_Sprite: {fileID: 1737372930494228659, guid: f8ed68110a3e9034bb2f620d7225c8c8, type: 3}
+    - m_Name: Female2_pirate
+      m_Hash: -230056640
+      m_Sprite: {fileID: -6514475679309778499, guid: 830e1cdfe7a99cf4e871c1a3bb680491, type: 3}
+    - m_Name: Female3_pirate
+      m_Hash: 1055104478
+      m_Sprite: {fileID: -4409750581727850332, guid: e214548ddbbb17143a65d18210e7d092, type: 3}
+    - m_Name: Male1_pirate
+      m_Hash: 1681796089
+      m_Sprite: {fileID: -8165545033115666507, guid: ace5d3cf53e1c304d911f144a2b3f12b, type: 3}
+    - m_Name: Male2_pirate
+      m_Hash: -357487590
+      m_Sprite: {fileID: -3986227788661576678, guid: 8df52c1629fcffe44aa0583283aef510, type: 3}
+    - m_Name: Music_vector
+      m_Hash: -1769516966
+      m_Sprite: {fileID: 2779835963714260595, guid: 00ccfd0e4a4dd3c42a7d203cb1f43b8f, type: 3}
+  - m_Name: R_calf
+    m_Hash: 1205356921
+    m_CategoryList:
+    - m_Name: Astronaut_pixel
+      m_Hash: 2133130654
+      m_Sprite: {fileID: 8290984936765831172, guid: 5b8f55d1f622018499aa25dca05cdf27, type: 3}
+    - m_Name: Scuba_pixel
+      m_Hash: -243746134
+      m_Sprite: {fileID: -512952874078600376, guid: 93a1f706b629650419331056916ef7ce, type: 3}
+    - m_Name: Boy_Anime
+      m_Hash: -1888934983
+      m_Sprite: {fileID: 5492065021266886842, guid: 8a99a470649750e4fa3e7a3182e964bf, type: 3}
+    - m_Name: Girl_Anime
+      m_Hash: 611371093
+      m_Sprite: {fileID: -47313187499327644, guid: 59d32f7e7f655124facdf1d7ace0661a, type: 3}
+    - m_Name: Knight_fantasy
+      m_Hash: -1995597731
+      m_Sprite: {fileID: 8835449663053169971, guid: f56456ff0b0b9a046a6ef0996e671f2c, type: 3}
+    - m_Name: Suitman_indie
+      m_Hash: -851927549
+      m_Sprite: {fileID: -425615313391990206, guid: 400757b1c42f8694c8d3e4cac40baa0c, type: 3}
+    - m_Name: Adventurer_indie
+      m_Hash: 1945485534
+      m_Sprite: {fileID: 309528297600858047, guid: c7534d8e5c38cda40a8b648f2888f991, type: 3}
+    - m_Name: Fighter_indie
+      m_Hash: 649162173
+      m_Sprite: {fileID: -5495347715330041008, guid: b7634fc5e1877b0409d0d969f9aefde3, type: 3}
+    - m_Name: UndeadRanger_indie
+      m_Hash: 1202715206
+      m_Sprite: {fileID: -8362708865119546223, guid: 927f3d3ef3a50e946b4d53ac4974ee1c, type: 3}
+    - m_Name: CountDovorushka_indie
+      m_Hash: -1944956803
+      m_Sprite: {fileID: 7794804785940795241, guid: 52d98be9e1137b24e86b0ada5661b2b0, type: 3}
+    - m_Name: PlagueDoctor_pixel
+      m_Hash: 2003625779
+      m_Sprite: {fileID: -4928498343728346553, guid: 8888a4d2981602a449d29700b7662872, type: 3}
+    - m_Name: Skull_PostApocalypse
+      m_Hash: -22287164
+      m_Sprite: {fileID: 209569144363285208, guid: d18a9340cc1f0424ba77820ba11c1005, type: 3}
+    - m_Name: Marincic_PostApocalypse
+      m_Hash: 1296847265
+      m_Sprite: {fileID: -7997295914076281452, guid: 38995c01e09dc7a40a5dd29bda2e6111, type: 3}
+    - m_Name: Spaceboy_scifi
+      m_Hash: 1433593600
+      m_Sprite: {fileID: -1574230412028875094, guid: 7d291a91239bbf7499254b91cf61b4da, type: 3}
+    - m_Name: FemaleKnight_vector
+      m_Hash: -1019246480
+      m_Sprite: {fileID: 550821463453491704, guid: d3865d6c5891da54fb3cb906cac93802, type: 3}
+    - m_Name: Samurai_vector
+      m_Hash: 1762462841
+      m_Sprite: {fileID: -7140394945325342663, guid: e8e7976b56debe94bb6dc34e960bae3e, type: 3}
+    - m_Name: Raver_vector
+      m_Hash: 1177066619
+      m_Sprite: {fileID: 6329200231904660964, guid: 6c4eb0329f2eca24e82edbe6f8a695d0, type: 3}
+    - m_Name: Female1_pirate
+      m_Hash: 2093390499
+      m_Sprite: {fileID: -6429822782116020699, guid: f8ed68110a3e9034bb2f620d7225c8c8, type: 3}
+    - m_Name: Female2_pirate
+      m_Hash: -230056640
+      m_Sprite: {fileID: -6447496873455723428, guid: 830e1cdfe7a99cf4e871c1a3bb680491, type: 3}
+    - m_Name: Female3_pirate
+      m_Hash: 1055104478
+      m_Sprite: {fileID: -2285463969336705934, guid: e214548ddbbb17143a65d18210e7d092, type: 3}
+    - m_Name: Male1_pirate
+      m_Hash: 1681796089
+      m_Sprite: {fileID: -339095568436766646, guid: ace5d3cf53e1c304d911f144a2b3f12b, type: 3}
+    - m_Name: Male2_pirate
+      m_Hash: -357487590
+      m_Sprite: {fileID: 2075871608246685543, guid: 8df52c1629fcffe44aa0583283aef510, type: 3}
+    - m_Name: Music_vector
+      m_Hash: -1769516966
+      m_Sprite: {fileID: -2848027982233523282, guid: 00ccfd0e4a4dd3c42a7d203cb1f43b8f, type: 3}
+  - m_Name: L_calf
+    m_Hash: 2114202258
+    m_CategoryList:
+    - m_Name: Astronaut_pixel
+      m_Hash: 2133130654
+      m_Sprite: {fileID: -7168138994980640114, guid: 5b8f55d1f622018499aa25dca05cdf27, type: 3}
+    - m_Name: Scuba_pixel
+      m_Hash: -243746134
+      m_Sprite: {fileID: -3723881761930702915, guid: 93a1f706b629650419331056916ef7ce, type: 3}
+    - m_Name: Boy_Anime
+      m_Hash: -1888934983
+      m_Sprite: {fileID: -6912523699225302755, guid: 8a99a470649750e4fa3e7a3182e964bf, type: 3}
+    - m_Name: Girl_Anime
+      m_Hash: 611371093
+      m_Sprite: {fileID: 5676407644680034534, guid: 59d32f7e7f655124facdf1d7ace0661a, type: 3}
+    - m_Name: Knight_fantasy
+      m_Hash: -1995597731
+      m_Sprite: {fileID: 8534782678794337571, guid: f56456ff0b0b9a046a6ef0996e671f2c, type: 3}
+    - m_Name: Suitman_indie
+      m_Hash: -851927549
+      m_Sprite: {fileID: -2774610648253513832, guid: 400757b1c42f8694c8d3e4cac40baa0c, type: 3}
+    - m_Name: Adventurer_indie
+      m_Hash: 1945485534
+      m_Sprite: {fileID: 2753012263417550748, guid: c7534d8e5c38cda40a8b648f2888f991, type: 3}
+    - m_Name: Fighter_indie
+      m_Hash: 649162173
+      m_Sprite: {fileID: -5642167293068457331, guid: b7634fc5e1877b0409d0d969f9aefde3, type: 3}
+    - m_Name: UndeadRanger_indie
+      m_Hash: 1202715206
+      m_Sprite: {fileID: 8052955286398270488, guid: 927f3d3ef3a50e946b4d53ac4974ee1c, type: 3}
+    - m_Name: CountDovorushka_indie
+      m_Hash: -1944956803
+      m_Sprite: {fileID: 3889303203369181187, guid: 52d98be9e1137b24e86b0ada5661b2b0, type: 3}
+    - m_Name: PlagueDoctor_pixel
+      m_Hash: 2003625779
+      m_Sprite: {fileID: -4349621754890710482, guid: 8888a4d2981602a449d29700b7662872, type: 3}
+    - m_Name: Skull_PostApocalypse
+      m_Hash: -22287164
+      m_Sprite: {fileID: 5439514438336973865, guid: d18a9340cc1f0424ba77820ba11c1005, type: 3}
+    - m_Name: Marincic_PostApocalypse
+      m_Hash: 1296847265
+      m_Sprite: {fileID: -2753550792009169927, guid: 38995c01e09dc7a40a5dd29bda2e6111, type: 3}
+    - m_Name: Spaceboy_scifi
+      m_Hash: 1433593600
+      m_Sprite: {fileID: 4731259089257247553, guid: 7d291a91239bbf7499254b91cf61b4da, type: 3}
+    - m_Name: FemaleKnight_vector
+      m_Hash: -1019246480
+      m_Sprite: {fileID: 3861877663793246204, guid: d3865d6c5891da54fb3cb906cac93802, type: 3}
+    - m_Name: Samurai_vector
+      m_Hash: 1762462841
+      m_Sprite: {fileID: 3733120474357564814, guid: e8e7976b56debe94bb6dc34e960bae3e, type: 3}
+    - m_Name: Raver_vector
+      m_Hash: 1177066619
+      m_Sprite: {fileID: 6356088738836767679, guid: 6c4eb0329f2eca24e82edbe6f8a695d0, type: 3}
+    - m_Name: Female1_pirate
+      m_Hash: 2093390499
+      m_Sprite: {fileID: -2685703554180936987, guid: f8ed68110a3e9034bb2f620d7225c8c8, type: 3}
+    - m_Name: Female2_pirate
+      m_Hash: -230056640
+      m_Sprite: {fileID: -8444950482785098485, guid: 830e1cdfe7a99cf4e871c1a3bb680491, type: 3}
+    - m_Name: Female3_pirate
+      m_Hash: 1055104478
+      m_Sprite: {fileID: 3710882137916712149, guid: e214548ddbbb17143a65d18210e7d092, type: 3}
+    - m_Name: Male1_pirate
+      m_Hash: 1681796089
+      m_Sprite: {fileID: -1920801525960480769, guid: ace5d3cf53e1c304d911f144a2b3f12b, type: 3}
+    - m_Name: Male2_pirate
+      m_Hash: -357487590
+      m_Sprite: {fileID: -2829913853895074720, guid: 8df52c1629fcffe44aa0583283aef510, type: 3}
+    - m_Name: Music_vector
+      m_Hash: -1769516966
+      m_Sprite: {fileID: -7568620109122634507, guid: 00ccfd0e4a4dd3c42a7d203cb1f43b8f, type: 3}
+  - m_Name: R_foot
+    m_Hash: -1576225078
+    m_CategoryList:
+    - m_Name: Astronaut_pixel
+      m_Hash: 2133130654
+      m_Sprite: {fileID: -1821052650415047804, guid: 5b8f55d1f622018499aa25dca05cdf27, type: 3}
+    - m_Name: Scuba_pixel
+      m_Hash: -243746134
+      m_Sprite: {fileID: -9110808923124433947, guid: 93a1f706b629650419331056916ef7ce, type: 3}
+    - m_Name: Boy_Anime
+      m_Hash: -1888934983
+      m_Sprite: {fileID: -1455458964916247109, guid: 8a99a470649750e4fa3e7a3182e964bf, type: 3}
+    - m_Name: Girl_Anime
+      m_Hash: 611371093
+      m_Sprite: {fileID: 8738768343113659488, guid: 59d32f7e7f655124facdf1d7ace0661a, type: 3}
+    - m_Name: Knight_fantasy
+      m_Hash: -1995597731
+      m_Sprite: {fileID: -6675025844474986404, guid: f56456ff0b0b9a046a6ef0996e671f2c, type: 3}
+    - m_Name: Suitman_indie
+      m_Hash: -851927549
+      m_Sprite: {fileID: -8328802167965808177, guid: 400757b1c42f8694c8d3e4cac40baa0c, type: 3}
+    - m_Name: Adventurer_indie
+      m_Hash: 1945485534
+      m_Sprite: {fileID: -4499574311100663295, guid: c7534d8e5c38cda40a8b648f2888f991, type: 3}
+    - m_Name: Fighter_indie
+      m_Hash: 649162173
+      m_Sprite: {fileID: -1758332447832026156, guid: b7634fc5e1877b0409d0d969f9aefde3, type: 3}
+    - m_Name: UndeadRanger_indie
+      m_Hash: 1202715206
+      m_Sprite: {fileID: -3428598744037683901, guid: 927f3d3ef3a50e946b4d53ac4974ee1c, type: 3}
+    - m_Name: CountDovorushka_indie
+      m_Hash: -1944956803
+      m_Sprite: {fileID: 724464806658863563, guid: 52d98be9e1137b24e86b0ada5661b2b0, type: 3}
+    - m_Name: PlagueDoctor_pixel
+      m_Hash: 2003625779
+      m_Sprite: {fileID: -3491085255404651440, guid: 8888a4d2981602a449d29700b7662872, type: 3}
+    - m_Name: Skull_PostApocalypse
+      m_Hash: -22287164
+      m_Sprite: {fileID: -8827324055527889255, guid: d18a9340cc1f0424ba77820ba11c1005, type: 3}
+    - m_Name: Marincic_PostApocalypse
+      m_Hash: 1296847265
+      m_Sprite: {fileID: -1341120610060680265, guid: 38995c01e09dc7a40a5dd29bda2e6111, type: 3}
+    - m_Name: Spaceboy_scifi
+      m_Hash: 1433593600
+      m_Sprite: {fileID: 7485005226509657370, guid: 7d291a91239bbf7499254b91cf61b4da, type: 3}
+    - m_Name: FemaleKnight_vector
+      m_Hash: -1019246480
+      m_Sprite: {fileID: 3748481469460608309, guid: d3865d6c5891da54fb3cb906cac93802, type: 3}
+    - m_Name: Samurai_vector
+      m_Hash: 1762462841
+      m_Sprite: {fileID: 2356639050283580792, guid: e8e7976b56debe94bb6dc34e960bae3e, type: 3}
+    - m_Name: Raver_vector
+      m_Hash: 1177066619
+      m_Sprite: {fileID: 2913951596031041662, guid: 6c4eb0329f2eca24e82edbe6f8a695d0, type: 3}
+    - m_Name: Female1_pirate
+      m_Hash: 2093390499
+      m_Sprite: {fileID: 2110539981478290533, guid: f8ed68110a3e9034bb2f620d7225c8c8, type: 3}
+    - m_Name: Female2_pirate
+      m_Hash: -230056640
+      m_Sprite: {fileID: -2553191377209686523, guid: 830e1cdfe7a99cf4e871c1a3bb680491, type: 3}
+    - m_Name: Female3_pirate
+      m_Hash: 1055104478
+      m_Sprite: {fileID: -6877231741130039984, guid: e214548ddbbb17143a65d18210e7d092, type: 3}
+    - m_Name: Male1_pirate
+      m_Hash: 1681796089
+      m_Sprite: {fileID: 8833539905878853796, guid: ace5d3cf53e1c304d911f144a2b3f12b, type: 3}
+    - m_Name: Male2_pirate
+      m_Hash: -357487590
+      m_Sprite: {fileID: -7769118004277198916, guid: 8df52c1629fcffe44aa0583283aef510, type: 3}
+    - m_Name: Music_vector
+      m_Hash: -1769516966
+      m_Sprite: {fileID: 3462983811643629200, guid: 00ccfd0e4a4dd3c42a7d203cb1f43b8f, type: 3}
+  - m_Name: L_foot
+    m_Hash: -1680812767
+    m_CategoryList:
+    - m_Name: Astronaut_pixel
+      m_Hash: 2133130654
+      m_Sprite: {fileID: 9124892577994870623, guid: 5b8f55d1f622018499aa25dca05cdf27, type: 3}
+    - m_Name: Scuba_pixel
+      m_Hash: -243746134
+      m_Sprite: {fileID: 5873942364103819689, guid: 93a1f706b629650419331056916ef7ce, type: 3}
+    - m_Name: Boy_Anime
+      m_Hash: -1888934983
+      m_Sprite: {fileID: -6216335054683990713, guid: 8a99a470649750e4fa3e7a3182e964bf, type: 3}
+    - m_Name: Girl_Anime
+      m_Hash: 611371093
+      m_Sprite: {fileID: -3310057046394192095, guid: 59d32f7e7f655124facdf1d7ace0661a, type: 3}
+    - m_Name: Knight_fantasy
+      m_Hash: -1995597731
+      m_Sprite: {fileID: 4688295831973004134, guid: f56456ff0b0b9a046a6ef0996e671f2c, type: 3}
+    - m_Name: Suitman_indie
+      m_Hash: -851927549
+      m_Sprite: {fileID: 9057398809103719569, guid: 400757b1c42f8694c8d3e4cac40baa0c, type: 3}
+    - m_Name: Adventurer_indie
+      m_Hash: 1945485534
+      m_Sprite: {fileID: 6005999253083606769, guid: c7534d8e5c38cda40a8b648f2888f991, type: 3}
+    - m_Name: Fighter_indie
+      m_Hash: 649162173
+      m_Sprite: {fileID: -2355284630202529547, guid: b7634fc5e1877b0409d0d969f9aefde3, type: 3}
+    - m_Name: UndeadRanger_indie
+      m_Hash: 1202715206
+      m_Sprite: {fileID: -2875139881171872281, guid: 927f3d3ef3a50e946b4d53ac4974ee1c, type: 3}
+    - m_Name: CountDovorushka_indie
+      m_Hash: -1944956803
+      m_Sprite: {fileID: 4325827461426497902, guid: 52d98be9e1137b24e86b0ada5661b2b0, type: 3}
+    - m_Name: PlagueDoctor_pixel
+      m_Hash: 2003625779
+      m_Sprite: {fileID: -8862999859086326025, guid: 8888a4d2981602a449d29700b7662872, type: 3}
+    - m_Name: Skull_PostApocalypse
+      m_Hash: -22287164
+      m_Sprite: {fileID: -1432087086907066488, guid: d18a9340cc1f0424ba77820ba11c1005, type: 3}
+    - m_Name: Marincic_PostApocalypse
+      m_Hash: 1296847265
+      m_Sprite: {fileID: 4546374304546037512, guid: 38995c01e09dc7a40a5dd29bda2e6111, type: 3}
+    - m_Name: Spaceboy_scifi
+      m_Hash: 1433593600
+      m_Sprite: {fileID: -4790845466902811448, guid: 7d291a91239bbf7499254b91cf61b4da, type: 3}
+    - m_Name: FemaleKnight_vector
+      m_Hash: -1019246480
+      m_Sprite: {fileID: -8467159449558393447, guid: d3865d6c5891da54fb3cb906cac93802, type: 3}
+    - m_Name: Samurai_vector
+      m_Hash: 1762462841
+      m_Sprite: {fileID: 6307210653176235791, guid: e8e7976b56debe94bb6dc34e960bae3e, type: 3}
+    - m_Name: Raver_vector
+      m_Hash: 1177066619
+      m_Sprite: {fileID: 6024096777378271448, guid: 6c4eb0329f2eca24e82edbe6f8a695d0, type: 3}
+    - m_Name: Female1_pirate
+      m_Hash: 2093390499
+      m_Sprite: {fileID: -4821423725651679768, guid: f8ed68110a3e9034bb2f620d7225c8c8, type: 3}
+    - m_Name: Female2_pirate
+      m_Hash: -230056640
+      m_Sprite: {fileID: -6048117139722934695, guid: 830e1cdfe7a99cf4e871c1a3bb680491, type: 3}
+    - m_Name: Female3_pirate
+      m_Hash: 1055104478
+      m_Sprite: {fileID: -523083331667123225, guid: e214548ddbbb17143a65d18210e7d092, type: 3}
+    - m_Name: Male1_pirate
+      m_Hash: 1681796089
+      m_Sprite: {fileID: 472721839970465522, guid: ace5d3cf53e1c304d911f144a2b3f12b, type: 3}
+    - m_Name: Male2_pirate
+      m_Hash: -357487590
+      m_Sprite: {fileID: 3818720752840170745, guid: 8df52c1629fcffe44aa0583283aef510, type: 3}
+    - m_Name: Music_vector
+      m_Hash: -1769516966
+      m_Sprite: {fileID: 9149633631021014381, guid: 00ccfd0e4a4dd3c42a7d203cb1f43b8f, type: 3}
